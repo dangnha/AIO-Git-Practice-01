@@ -1,2 +1,1 @@
-Dòng 1: Nội dung từ nhánh main/master
-Dòng 1: Nội dung khác từ feature-a
+Dòng 1: Nội dung khác từ feature-b
